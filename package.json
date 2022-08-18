@@ -1,0 +1,15 @@
+{
+  "name": "is-alive",
+  "version": "1.0.0",
+  "description": "Example NodeJS app",
+  "main": "server.js",
+  "scripts": {
+    "start:": "node server.js"
+  },
+  "author": "Hadrien Patte",
+  "license": "MIT",
+  "dependencies": {
+    "@instana/collector": "^2.6.0",
+    "express": "^4.17.1"
+  }
+}
